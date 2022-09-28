@@ -112,7 +112,7 @@ footer{
 
 .container > :first-child {
   grid-column: 1/ span 3;
-  background-image: url("../images/header.jpg");
+  background-image: url("header.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
